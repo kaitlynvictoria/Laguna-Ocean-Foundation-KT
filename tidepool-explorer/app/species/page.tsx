@@ -14,6 +14,7 @@ interface Species {
   commonName: string;
   scientificName: string;
   images: string[];
+  description: string;
 }
 
 function Species() {
@@ -126,6 +127,8 @@ function Species() {
               <button
                 className="block w-full text-[#19516a] text-lg text-left px-4 py-2 hover:bg-gray-100"
                 onClick={() => handleCategorySelect("Birds")}  // Handle category selection
+                
+
               >
                 Birds
               </button>
@@ -207,8 +210,7 @@ function Species() {
               {/* Description on the left */}
               <div className="flex-1 text-[#19516a] text-lg">
                 <p>
-                  The adult {selectedSpecies.commonName.toLowerCase()} is a common species found in the tide pools. 
-                  It has distinctive features and behaviors that make it interesting to observe in its natural habitat.
+                  {selectedSpecies.description}
                 </p>
               </div>
               
