@@ -6,7 +6,8 @@
           "/species/birds/brown-pelican/1.jpg",
           "/species/birds/brown-pelican/2.jpg",
           "/species/birds/brown-pelican/3.jpg"
-      ]
+      ],
+      "description": "The Brown Pelican is a large coastal bird famous for its spectacular plunge-diving and its expandable throat pouch."
   },
   {
     "commonName": "Double-crested Cormorant",
@@ -15,7 +16,8 @@
         "/species/birds/double-crested-cormorant/1.jpg",
         "/species/birds/double-crested-cormorant/2.jpeg",
         "/species/birds/double-crested-cormorant/3.jpg"
-    ]
+    ],
+    "description": "The Double-crested Cormorant is a Dark waterbird with orange facial skin, often seen drying wings on rocks."
   },
   {
     "commonName": "Brandt’s Cormorant",
@@ -24,7 +26,8 @@
         "/species/birds/brandts-cormorant/1.jpeg",
         "/species/birds/brandts-cormorant/2.jpg",
         "/species/birds/brandts-cormorant/3.jpg"
-    ]
+    ],
+    "description": "The Brandt’s Cormorant is a Seabird with a blue throat patch during breeding, found on rocky coasts."
   },
   {
     "commonName": "Pelagic Cormorant",
@@ -33,7 +36,8 @@
       "/species/birds/palegic-cormorant/1.jpg",
       "/species/birds/palegic-cormorant/2.jpg",
       "/species/birds/palegic-cormorant/3.jpg"
-    ]
+    ],
+    "description": "The Pelagic Cormorant is a Slender, glossy black cormorant that nests on coastal cliffs."
   },
   {
     "commonName": "Surf Scoter",
@@ -42,7 +46,8 @@
       "/species/birds/surf-scoter/1.jpg",
       "/species/birds/surf-scoter/2.jpg",
       "/species/birds/surf-scoter/3.jpg"
-    ]
+    ],
+    "description": "The Surf Scoter is a Sea duck with distinctive white patches on head and a colorful bill."
   },
   {
     "commonName": "Western Grebe",
@@ -51,7 +56,8 @@
       "/species/birds/western-grebe/1.jpg",
       "/species/birds/western-grebe/2.jpg",
       "/species/birds/western-grebe/3.jpg"
-    ]
+    ],
+    "description": "The Western Grebe is a Elegant waterbird known for its long neck and elaborate courtship dances."
   },
   {
     "commonName": "Herring Gull",
@@ -60,7 +66,8 @@
       "/species/birds/herring-gull/1.jpg",
       "/species/birds/herring-gull/2.jpeg",
       "/species/birds/herring-gull/3.jpg"
-    ]
+    ],
+    "description": "The Herring Gull is a Large gull with a gray back and powerful beak, common near coasts."
   },
   {
     "commonName": "Osprey",
@@ -69,7 +76,8 @@
       "/species/birds/osprey/1.jpg",
       "/species/birds/osprey/2.jpg",
       "/species/birds/osprey/3.jpg"
-    ]
+    ],
+    "description": "The Osprey is a Fish-eating raptor with a white head and dark eye stripe, often seen near water."
   },
   {
     "commonName": "Least Sandpiper",
@@ -78,7 +86,8 @@
       "/species/birds/least-sandpiper/1.jpg",
       "/species/birds/least-sandpiper/2.jpg",
       "/species/birds/least-sandpiper/3.jpeg"
-    ]
+    ],
+    "description": "The Least Sandpiper is a Tiny shorebird with yellow legs, forages in mudflats and marsh edges."
   },
   {
     "commonName": "Surfbird",
@@ -87,7 +96,8 @@
       "/species/birds/surfbird/1.jpg",
       "/species/birds/surfbird/2.jpg",
       "/species/birds/surfbird/3.jpg"
-    ]
+    ],
+    "description": "The Surfbird is a Stocky shorebird that forages on rocky coastlines in winter."
   },
   {
     "commonName": "Black Oystercatcher",
@@ -96,7 +106,8 @@
       "/species/birds/black-oystercatcher/1.jpg",
       "/species/birds/black-oystercatcher/2.jpeg",
       "/species/birds/black-oystercatcher/3.jpg"
-    ]
+    ],
+    "description": "The Black Oystercatcher is a Striking black bird with bright orange bill, feeds on shellfish."
   },
   {
     "commonName": "Snowy Plover",
@@ -105,7 +116,8 @@
       "/species/birds/snowy-plover/1.jpg",
       "/species/birds/snowy-plover/2.jpg",
       "/species/birds/snowy-plover/3.jpg"
-    ]
+    ],
+    "description": "The Snowy Plover is a Small, pale shorebird that nests in sandy beaches and salt flats."
   },
   {
     "commonName": "Willet",
@@ -114,7 +126,8 @@
       "/species/birds/willet/1.jpg",
       "/species/birds/willet/2.jpg",
       "/species/birds/willet/3.jpg"
-    ]
+    ],
+    "description": "The Willet is a Large, grayish shorebird with bold black-and-white wings in flight."
   },
   {
     "commonName": "Whimbrel",
@@ -123,7 +136,8 @@
       "/species/birds/whimbrel/1.jpg",
       "/species/birds/whimbrel/2.jpeg",
       "/species/birds/whimbrel/3.JPG"
-    ]
+    ],
+    "description": "The Whimbrel is a Curlew with a long, curved bill and striped crown, found in coastal wetlands."
   },
   {
     "commonName": "Sanderling",
@@ -132,7 +146,8 @@
       "/species/birds/sanderling/1.jpg",
       "/species/birds/sanderling/2.jpg",
       "/species/birds/sanderling/3.jpg"
-    ]
+    ],
+    "description": "The Sanderling is a Lively sandpiper that chases waves on sandy beaches."
   },
   {
     "commonName": "Black Turnstone",
@@ -141,7 +156,8 @@
       "/species/birds/black-turnstone/1.jpg",
       "/species/birds/black-turnstone/2.jpg",
       "/species/birds/black-turnstone/3.jpeg"
-    ]
+    ],
+    "description": "The Black Turnstone is a Stocky shorebird with black-and-white plumage, turns stones to find food."
   },
   {
     "commonName": "Caspian Tern",
@@ -150,7 +166,8 @@
       "/species/birds/caspian-tern/1.jpg",
       "/species/birds/caspian-tern/2.jpg",
       "/species/birds/caspian-tern/3.jpg"
-    ]
+    ],
+    "description": "The Caspian Tern is a Large tern with a heavy red bill, dives for fish in open water."
   },
   {
     "commonName": "Elegant Tern",
@@ -159,7 +176,8 @@
       "/species/birds/elegant-tern/1.jpg",
       "/species/birds/elegant-tern/2.jpg",
       "/species/birds/elegant-tern/3.jpg"
-    ]
+    ],
+    "description": "The Elegant Tern is a Slender tern with a shaggy crest and orange bill, nests in colonies."
   },
   {
     "commonName": "Royal Tern",
@@ -168,7 +186,8 @@
       "/species/birds/royal-tern/1.jpeg",
       "/species/birds/royal-tern/2.jpg",
       "/species/birds/royal-tern/3.jpg"
-    ]
+    ],
+    "description": "The Royal Tern is a Graceful tern with a large orange bill, often seen diving for fish."
   },
   {
     "commonName": "Western Gull",
@@ -177,7 +196,8 @@
       "/species/birds/western-gull/1.jpg",
       "/species/birds/western-gull/2.jpg",
       "/species/birds/western-gull/3.jpg"
-    ]
+    ],
+    "description": "The Western Gull is a Common coastal gull with a white head and gray back."
   },
   {
     "commonName": "California Gull",
@@ -186,7 +206,8 @@
       "/species/birds/california-gull/1.jpg",
       "/species/birds/california-gull/2.jpg",
       "/species/birds/california-gull/3.jpg"
-    ]
+    ],
+    "description": "The California Gull is a Medium-sized gull with a black ring around its yellow bill."
   },
   {
     "commonName": "Heermann’s Gull",
@@ -195,7 +216,8 @@
       "/species/birds/heermanns-gull/1.jpg",
       "/species/birds/heermanns-gull/2.jpg",
       "/species/birds/heermanns-gull/3.jpg"
-    ]
+    ],
+    "description": "The Heermann’s Gull is a Slate-gray gull with a red bill, often seen following fishing boats."
   }
 ]
   
